@@ -16,13 +16,12 @@ layout:
 
 ## 강의 학습 사용 환경
 
-|               |                 |
-| ------------- | --------------- |
-| OS            | Window          |
-| IDE           | 인텔리제이           |
-| language      | JAVA8           |
-| Database      | MySQL           |
-| Database Tool | MySQL Workbench |
+|               |                          |
+| ------------- | ------------------------ |
+| IDE           | STS(Spring Tool Suite 4) |
+| language      | JAVA8                    |
+| Database      | MySQL 8.0                |
+| Database Tool | MySQL Workbench          |
 
 {% embed url="https://kmooc.udemy.com/course/jpa-springboot-with-1" %}
 
