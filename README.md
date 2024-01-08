@@ -19,7 +19,7 @@ layout:
 |               |                          |
 | ------------- | ------------------------ |
 | IDE           | STS(Spring Tool Suite 4) |
-| language      | JAVA8                    |
+| language      | JAVA17                   |
 | Database      | MySQL 8.0                |
 | Database Tool | MySQL Workbench          |
 
