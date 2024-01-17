@@ -8,5 +8,5 @@
 * [3.JPA](spring-boot-with-jpa/3.jpa.md)
 * [4.하이버네이트](spring-boot-with-jpa/4.hibernate.md)
 * [5.프로젝트 셋업](spring-boot-with-jpa/5.project-setup.md)
-* [7.JPA CRUD(1)](spring-boot-with-jpa/6.jpa\_crud\_1.md)
+* [6.JPA CRUD(1)](spring-boot-with-jpa/6.jpa\_crud\_1.md)
 * [7.JPA CRUD(2)](spring-boot-with-jpa/7.jpa\_crud\_2.md)
